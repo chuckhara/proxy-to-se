@@ -1,4 +1,4 @@
-# express-http-proxy example with elastic search and nginx
+# proxy to es
 
 ```bash
 cd api
